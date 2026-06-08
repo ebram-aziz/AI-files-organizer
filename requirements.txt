@@ -1,0 +1,13 @@
+sentence-transformers
+faiss-cpu
+watchdog
+numpy
+scikit-learn
+joblib
+pdfminer.six
+PyMuPDF
+python-docx
+pytesseract
+pdf2image
+Pillow
+pytest
