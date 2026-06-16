@@ -71,7 +71,6 @@ DOWNLOADS_FOLDER = r"C:/Users/YourName/Downloads"
 
 ## Technologies
 
-* Python
 * Sentence Transformers
 * FAISS
 * Watchdog
